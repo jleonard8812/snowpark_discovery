@@ -11,7 +11,7 @@ from snowflake.snowpark.functions import substr
 # Replace the below connection_parameters with your respective snowflake account,user name and password
 connection_parameters = {"account":"BDUHNMX-SD34895",
 "user":"jleonard8812",
-"password": "Lilthuglife8812!!!",
+"password": "!!!",
 "role":"ACCOUNTADMIN",
 "warehouse":"COMPUTE_WH",
 "database":"demo_db",
